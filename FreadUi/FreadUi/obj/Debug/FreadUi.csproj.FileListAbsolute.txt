@@ -1,0 +1,10 @@
+C:\Users\pejol\source\repos\FreadUi\FreadUi\bin\Debug\FreadUi.exe.config
+C:\Users\pejol\source\repos\FreadUi\FreadUi\bin\Debug\FreadUi.exe
+C:\Users\pejol\source\repos\FreadUi\FreadUi\bin\Debug\FreadUi.pdb
+C:\Users\pejol\source\repos\FreadUi\FreadUi\obj\Debug\FreadUi.csprojAssemblyReference.cache
+C:\Users\pejol\source\repos\FreadUi\FreadUi\obj\Debug\FreadUi.Form1.resources
+C:\Users\pejol\source\repos\FreadUi\FreadUi\obj\Debug\FreadUi.Properties.Resources.resources
+C:\Users\pejol\source\repos\FreadUi\FreadUi\obj\Debug\FreadUi.csproj.GenerateResource.cache
+C:\Users\pejol\source\repos\FreadUi\FreadUi\obj\Debug\FreadUi.csproj.CoreCompileInputs.cache
+C:\Users\pejol\source\repos\FreadUi\FreadUi\obj\Debug\FreadUi.exe
+C:\Users\pejol\source\repos\FreadUi\FreadUi\obj\Debug\FreadUi.pdb
